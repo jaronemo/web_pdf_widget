@@ -5,7 +5,7 @@
         <template id="assets_backend" name="preview assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
                 <script type="text/javascript" src="/web_pdf_widget/static/src/js/web_pdf_widget.js"></script>
-                <link rel="stylesheet" tpe="text/css" href="/product_pdf_preview/static/src/css/product.css"/>
+                <link rel="stylesheet" tpe="text/css" href="/web_pdf_widget/static/src/css/web_pdf_widget.css"/>
             </xpath>
         </template>
 
